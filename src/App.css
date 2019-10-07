@@ -1,21 +1,26 @@
 .App {
-  text-align: center;
+    text-align: center;
 }
 
 td {
-  cursor: pointer;
-  width: 40px;
-  height: 40px;
-  padding: 0 !important;
-  vertical-align: middle !important;
-  margin: auto;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    padding: 0 !important;
+    vertical-align: middle !important;
+    margin: auto;
 }
 
 td.ground {
-  background-color: brown;
-  color: white;
+    background-color: brown;
+    color: white;
 }
 
 td.sea {
-  background-color: lightcyan;
+    background-color: lightcyan;
+}
+
+td.sea-shortest {
+    background-color: darkcyan;
+    color: white;
 }
