@@ -260,7 +260,11 @@ class App extends Component {
                 (lineIndex === this.state.start.x && colIndex === this.state.start.y)
                 || (lineIndex === this.state.end.x && colIndex === this.state.end.y) ?
                     false : Math.random() < this.state.groundPercentage)),
-            numMap: this.state.numMap.map((line) => line.map(() => 0)),
+            onChooseStartPoint: false,
+            onChooseEndPoint: false,
+            onFindingPath: false,
+            minDist: -1,
+            shortestPath: [[]],
         });
 
     toggleStartPoint = (lineIndex, colIndex) =>
