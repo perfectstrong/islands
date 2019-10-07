@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/islands/static/css/main.8e07ffc1.chunk.css",
+    "main.js": "/islands/static/js/main.90d7e557.chunk.js",
+    "main.js.map": "/islands/static/js/main.90d7e557.chunk.js.map",
+    "runtime-main.js": "/islands/static/js/runtime-main.16eb6c85.js",
+    "runtime-main.js.map": "/islands/static/js/runtime-main.16eb6c85.js.map",
+    "static/css/2.0624914a.chunk.css": "/islands/static/css/2.0624914a.chunk.css",
+    "static/js/2.98ceae1a.chunk.js": "/islands/static/js/2.98ceae1a.chunk.js",
+    "static/js/2.98ceae1a.chunk.js.map": "/islands/static/js/2.98ceae1a.chunk.js.map",
+    "index.html": "/islands/index.html",
+    "precache-manifest.0f4bfb09bbb9c3f103deff57fabd3892.js": "/islands/precache-manifest.0f4bfb09bbb9c3f103deff57fabd3892.js",
+    "service-worker.js": "/islands/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/islands/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.8e07ffc1.chunk.css.map": "/islands/static/css/main.8e07ffc1.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16eb6c85.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.98ceae1a.chunk.js",
+    "static/css/main.8e07ffc1.chunk.css",
+    "static/js/main.90d7e557.chunk.js"
+  ]
+}
